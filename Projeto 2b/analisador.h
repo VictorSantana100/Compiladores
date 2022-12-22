@@ -711,6 +711,7 @@ void N(PONT* r)
             insere(r, token, indiceN);
             cont++;  
             lex();
+              
             if (token == '(')
             {
               indice = indiceN * 12 + cont;
