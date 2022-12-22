@@ -7,7 +7,7 @@ void mostrarEmOrdem(PONT a){
     }
 }
 
-// percuso em preordem raiz-esq-dir POLONESA
+//percuso em preordem raiz-esq-dir POLONESA
 void mostrarEmPreOrdem(PONT a){
     if(a!=NULL){
       
